@@ -1,0 +1,1 @@
+# newmodule-1c-bitrix
